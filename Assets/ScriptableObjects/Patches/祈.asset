@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25757e010d6985f44852d5628e88e8b4, type: 3}
+  m_Name: "\u7948"
+  m_EditorClassIdentifier: 
+  patchID: xxx2
+  patchName: "\u7948"
+  icon: {fileID: 1414734203210063797, guid: f54a170696c11f84eadfdba31d01a98e, type: 3}
+  description: "\u305F\u3060\u7948\u308B\u3060\u3051"
+  canEnhance: 0
+  maxEnhanceLevel: 10
+  isSpecialEffect: 1
+  effectType: 0
+  specialEffectType: 2
+  enhancementMaterials: []
+  enhanceHP: 0
+  enhanceAttack: 0
+  enhanceMagicAttack: 0
+  enhanceDefense: 0
+  enhanceMagicDefense: 0
+  enhanceFate: 0
+  enhanceSpeed: 0
+  affectedStatType: 1
+  targetStatType: 0
+  ownedCount: 1
+  effectValuePerUnit: 1
+  patchLevel: 0
+  levelMultiplier: 0.1
+  rarity: 4
+  maxStack: 1
