@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c78c36a90200844482a45cde6fc2d94, type: 3}
+  m_Name: af_1
+  m_EditorClassIdentifier: 
+  artifactID: af_attack_01
+  artifactName: "\u5263\u306E\u30AA\u30D6\u30B8\u30A7"
+  description: "ATK\u304C\u4E00\u3064\u306B\u3064\u304D0.1\u4E0A\u304C\u308B\n\u5263\u306E\u5FC3\u5F97\u306F\u307E\u3060\u6D45\u3044"
+  icon: {fileID: -4884494667850595660, guid: cfdcee5014ed80047b22d584013490ec, type: 3}
+  maxStackCount: 1000
+  affectedStat: 1
+  effectValue: 1
+  isMultiplier: 0
+  isPatchSlotExpandArtifact: 0
+  currentStackSize: 6
