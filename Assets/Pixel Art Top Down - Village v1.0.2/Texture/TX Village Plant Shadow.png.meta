@@ -1,0 +1,1230 @@
+fileFormatVersion: 2
+guid: ed50ad35b4cb25447b739d186a2841e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -857124528644741128
+    second: TX Village Plant Shadow_0
+  - first:
+      213: -8805368016469894600
+    second: TX Village Plant Shadow_1
+  - first:
+      213: 6245184064208465336
+    second: TX Village Plant Shadow_2
+  - first:
+      213: 7352735796874841134
+    second: TX Village Plant Shadow_3
+  - first:
+      213: 5717230469121971449
+    second: TX Village Plant Shadow_4
+  - first:
+      213: -73550094332712707
+    second: TX Village Plant Shadow_5
+  - first:
+      213: 8582443261474711371
+    second: TX Village Plant Shadow_6
+  - first:
+      213: -2382027024213387299
+    second: TX Village Plant Shadow_7
+  - first:
+      213: -5067183294787884860
+    second: TX Village Plant Shadow_8
+  - first:
+      213: -8145063161320753998
+    second: TX Village Plant Shadow_9
+  - first:
+      213: 7841358546534120768
+    second: TX Village Plant Shadow_10
+  - first:
+      213: -3573145188153902594
+    second: TX Village Plant Shadow_11
+  - first:
+      213: -2821708755130790786
+    second: TX Village Plant Shadow_12
+  - first:
+      213: 8699360866840622852
+    second: TX Village Plant Shadow_13
+  - first:
+      213: -3149493411123591016
+    second: TX Village Plant Shadow_14
+  - first:
+      213: 3379319937931016075
+    second: TX Village Plant Shadow_15
+  - first:
+      213: -853356631674022238
+    second: TX Village Plant Shadow_16
+  - first:
+      213: -5600863226774273361
+    second: TX Village Plant Shadow_17
+  - first:
+      213: 7592634406086260185
+    second: TX Village Plant Shadow_18
+  - first:
+      213: 2058149069241940297
+    second: TX Village Plant Shadow_19
+  - first:
+      213: -4356811469545286888
+    second: TX Village Plant Shadow_20
+  - first:
+      213: -6840971892270625223
+    second: TX Village Plant Shadow_21
+  - first:
+      213: 942285562965650637
+    second: TX Village Plant Shadow_22
+  - first:
+      213: 6424300036530587621
+    second: TX Village Plant Shadow_23
+  - first:
+      213: -436026064079879801
+    second: TX Village Plant Shadow_24
+  - first:
+      213: 1133414388193938863
+    second: TX Village Plant Shadow_25
+  - first:
+      213: -8772876021446341102
+    second: TX Village Plant Shadow_26
+  - first:
+      213: -5829875597669987081
+    second: TX Village Plant Shadow_27
+  - first:
+      213: -5647527922746514040
+    second: TX Village Plant Shadow_28
+  - first:
+      213: -638382340920362396
+    second: TX Village Plant Shadow_29
+  - first:
+      213: 8501146879210774946
+    second: TX Village Plant Shadow_30
+  - first:
+      213: 7145401869624483723
+    second: TX Village Plant Shadow_31
+  - first:
+      213: 6112341050040262518
+    second: TX Village Plant Shadow_32
+  - first:
+      213: -6649095417375450796
+    second: TX Village Plant Shadow_33
+  - first:
+      213: 1258079756760640572
+    second: TX Village Plant Shadow_34
+  - first:
+      213: 7881543012548988571
+    second: TX Village Plant Shadow_35
+  - first:
+      213: -3750691159564508235
+    second: TX Village Plant Shadow_36
+  - first:
+      213: -6266348484107806272
+    second: TX Village Plant Shadow_37
+  - first:
+      213: -625822750145604607
+    second: TX Village Plant Shadow_38
+  - first:
+      213: -1223892750613301074
+    second: TX Village Plant Shadow_39
+  - first:
+      213: -8774203480843433099
+    second: TX Village Plant Shadow_40
+  - first:
+      213: -6696429719221733119
+    second: TX Village Plant Shadow_41
+  - first:
+      213: 111172426376007007
+    second: TX Village Plant Shadow_42
+  - first:
+      213: 4571917609729649365
+    second: TX Village Plant Shadow_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 840
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f72bdd48c1ea14f0800000000000000
+      internalID: -857124528644741128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 840
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ad9bd117c0dc580800000000000000
+      internalID: -8805368016469894600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 840
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd631861d95ba650800000000000000
+      internalID: 6245184064208465336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 840
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c0604304a2a0660800000000000000
+      internalID: 7352735796874841134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 838
+        width: 95
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f41e0b02dea75f40800000000000000
+      internalID: 5717230469121971449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 759
+        width: 257
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df82a123492bafef0800000000000000
+      internalID: -73550094332712707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 542
+        width: 202
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b472521bca6fa1770800000000000000
+      internalID: 8582443261474711371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 355
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd75160ca0751fed0800000000000000
+      internalID: -2382027024213387299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 357
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8ef56f3afbda9b0800000000000000
+      internalID: -5067183294787884860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 357
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b43b5c853ce6fe80800000000000000
+      internalID: -8145063161320753998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 321
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04db3a28d0a12dc60800000000000000
+      internalID: 7841358546534120768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 324
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9b039f163a96ec0800000000000000
+      internalID: -3573145188153902594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 327
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cc1d656d647d8d0800000000000000
+      internalID: -2821708755130790786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 274
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40738f00e965ab870800000000000000
+      internalID: 8699360866840622852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 275
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8988b87ed60ca44d0800000000000000
+      internalID: -3149493411123591016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 276
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87f5c24491c5ee20800000000000000
+      internalID: 3379319937931016075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 283
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6985e2aa44824f0800000000000000
+      internalID: -853356631674022238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 276
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa24294e19cb542b0800000000000000
+      internalID: -5600863226774273361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 277
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d53e2cc3c47e5960800000000000000
+      internalID: 7592634406086260185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 275
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94977f68ca3009c10800000000000000
+      internalID: 2058149069241940297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 275
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813d7644d0f7983c0800000000000000
+      internalID: -4356811469545286888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_21
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 292
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e07ca1f4cff01a0800000000000000
+      internalID: -6840971892270625223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_22
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 294
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcceb812abba31d00800000000000000
+      internalID: 942285562965650637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_23
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 295
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e74fe788d2b72950800000000000000
+      internalID: 6424300036530587621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_24
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 168
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78105b9da9ce2f9f0800000000000000
+      internalID: -436026064079879801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_25
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 167
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadcd978162babf00800000000000000
+      internalID: 1133414388193938863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_26
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 166
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e062b3dbb704680800000000000000
+      internalID: -8772876021446341102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_27
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 167
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc892c280f181fa0800000000000000
+      internalID: -5829875597669987081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 97
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8852891b643ff91b0800000000000000
+      internalID: -5647527922746514040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 98
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a3f8aa4a20427f0800000000000000
+      internalID: -638382340920362396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_30
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 97
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a167ceab042af570800000000000000
+      internalID: 8501146879210774946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_31
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 96
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f11687421992360800000000000000
+      internalID: 7145401869624483723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_32
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 96
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f10b9ecc563d450800000000000000
+      internalID: 6112341050040262518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_33
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 93
+        width: 77
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45998a142faa9b3a0800000000000000
+      internalID: -6649095417375450796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_34
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 92
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ce3d88fd8957110800000000000000
+      internalID: 1258079756760640572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_35
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 94
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ec1f89c9dd06d60800000000000000
+      internalID: 7881543012548988571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 33
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3a5fb234ed2fbc0800000000000000
+      internalID: -3750691159564508235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 34
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c952f511457909a0800000000000000
+      internalID: -6266348484107806272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_38
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 33
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10496354681a057f0800000000000000
+      internalID: -625822750145604607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_39
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 32
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8b48c170cd30fe0800000000000000
+      internalID: -1223892750613301074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_40
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 32
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bc4510c64cb3680800000000000000
+      internalID: -8774203480843433099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_41
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 29
+        width: 77
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1097b6a46a08113a0800000000000000
+      internalID: -6696429719221733119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_42
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 28
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dc5f69bb6fa8100800000000000000
+      internalID: 111172426376007007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Plant Shadow_43
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 30
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dae94ec7d6b27f30800000000000000
+      internalID: 4571917609729649365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
